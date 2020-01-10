@@ -3,7 +3,7 @@ A sudoku solver made using the backtracking algorithm. It includes a graphical G
 
 # How to Run the code
 [For the GUI version] Run the GUI.py file to play sudoku.
-[For the text version] Run the solver(text).py file to get the solution of the sudoku board.
+[For the text version] Run the solver (text).py file to get the solution of the sudoku board.
 
 # Instructions
 [For the GUI version]
