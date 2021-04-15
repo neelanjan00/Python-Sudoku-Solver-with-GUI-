@@ -6,9 +6,9 @@
   </a>
 </p>
 
-> About
+> A Python-based Sudoku solver implemented using the backtracking algorithm with GUI visualization using PyGame.
 
-### 🏠 [Homepage](A Python-based Sudoku solver implemented using the backtracking algorithm with GUI visualization using PyGame.)
+### 🏠 [Homepage](https://github.com/neelanjan00/Python-Sudoku-Solver-with-GUI-)
 
 ## Install
 
